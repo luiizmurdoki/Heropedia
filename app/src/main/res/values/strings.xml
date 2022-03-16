@@ -1,0 +1,54 @@
+<resources>
+    <!--HOME-->
+    <string name="app_name">Heropedia</string>
+    <string name="title"><![CDATA[Bem Vindo \na HeroPedia!]]></string>
+    <string name="subtitle">Busque informações de seus herois ou vilões favoritos!</string>
+    <string name="error">Não foi possivel encontrar esse Heroi/Vilão.</string>
+
+
+    <!--TELA DE BUSCA-->
+    <string name="hintSearch">Batman...</string>
+    <string name="titleSearch">Quem você está procurando ?</string>
+
+
+
+    <!---BUTTON-->
+    <string name="btn_search">Buscar</string>
+
+    <!---ACESSIBILITY-->
+    <string name="SuperHero">Super Herói</string>
+    <string name="Loupe">Lupa</string>
+    <string name="Detective">Detetive</string>
+
+    <!---LOADING-->
+    <string name="loading">Carregando...</string>
+
+
+    <!--SNACKBAR-->
+    <string name="placeholder_error_label">Houve um erro inesperado.</string>
+    <string name="placeholder_error_button_label">Tentar novamente</string>
+    <string name="placeholder_empty_label">Não existem resultados.</string>
+    <string name="placeholder_empty_title">Erro!</string>
+    <string name="placeholder_error_title">Ops!</string>
+    <string name="placeholder_sucess">Sucesso!</string>
+
+    <!---DESCRIPTION-->
+    <string name="biography">Biografia</string>
+    <string name="appearance">Aparência</string>
+    <string name="work">Trabalho</string>
+    <string name="name">Nome completo:</string>
+    <string name="alterEgo">Alter Egos:</string>
+    <string name="aliases">Apelidos:</string>
+    <string name="placeBirth">Local de Nascimento:</string>
+    <string name="firstView">Primeira Aparicao:</string>
+    <string name="publisher">Publicadora:</string>
+    <string name="alignment">Alinhamento:</string>
+    <string name="gender">Gênero:</string>
+    <string name="race">Raça:</string>
+    <string name="height">Altura:</string>
+    <string name="weight">Peso:</string>
+    <string name="eye_color">Cor dos olhos:</string>
+    <string name="hair_color">Cor do Cabelo:</string>
+    <string name="occupation">Ocupação:</string>
+    <string name="base">Base/Casa:</string>
+</resources>
