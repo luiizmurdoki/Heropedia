@@ -2,7 +2,7 @@
 Projeto elaborado para fins de estudo a ideia do projeto é ter um App para buscar Heróis e Vilões que você tem curiosidade em saber mais
 
 # Preview
-![Fluxo Principal](https://github.com/luiizmurdoki/Colabore/blob/develop/app/src/picturesforbanner/banner.png)
+![Fluxo Principal](https://github.com/luiizmurdoki/Heropedia/blob/master/app/src/main/picturesforbanner/banner.png)
 
 ## Desenvolvimento
 
